@@ -1,5 +1,5 @@
-from flashcards.answer import Answer
-from flashcards.config import Config
+from answer import Answer
+from config import Config
 import json
 
 

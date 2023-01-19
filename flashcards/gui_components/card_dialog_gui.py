@@ -1,9 +1,9 @@
-from ui_createCardDialog import Ui_Dialog
+from ui.ui_createCardDialog import Ui_Dialog
 from PySide2.QtWidgets import QDialog, QFileDialog
-from flashcards.utils import (
+from utils import (
     extend_cards_storage_from_json,
     extend_cards_storage_from_csv, add_card)
-from flashcards.config import Config as cfg
+from config import Config as cfg
 import os
 
 

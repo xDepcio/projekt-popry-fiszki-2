@@ -142,7 +142,7 @@ border-top-right-radius: 9px;</string>
               </property>
               <property name="styleSheet">
                <string notr="true">border-radius: 4px;
-border: 1px solid rgb(146, 146, 146);
+border: 1px solid rgb(246, 146, 146);
 padding: 4px;
 background-color: rgb(246, 246, 246);
 </string>

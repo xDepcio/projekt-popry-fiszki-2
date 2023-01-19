@@ -92,7 +92,7 @@ class Ui_Dialog(object):
         self.originNameInput.setObjectName(u"originNameInput")
         self.originNameInput.setFont(font)
         self.originNameInput.setStyleSheet(u"border-radius: 4px;\n"
-"border: 1px solid rgb(146, 146, 146);\n"
+"border: 1px solid rgb(246, 146, 146);\n"
 "padding: 4px;\n"
 "background-color: rgb(246, 246, 246);\n"
 "")

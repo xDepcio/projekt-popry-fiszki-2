@@ -804,12 +804,20 @@
         "id": 91
     },
     {
+        "originLang": "a",
+        "learningLang": "_a",
+        "categories": [
+            "Vehicles"
+        ],
+        "id": 92
+    },
+    {
         "originLang": "koń",
         "learningLang": "horse",
         "categories": [
             "Animals"
         ],
-        "id": 92
+        "id": 93
     },
     {
         "originLang": "pies",
@@ -817,7 +825,7 @@
         "categories": [
             "Animals"
         ],
-        "id": 93
+        "id": 94
     },
     {
         "originLang": "kot",
@@ -825,6 +833,6 @@
         "categories": [
             "Animals"
         ],
-        "id": 94
+        "id": 95
     }
 ]

@@ -1,7 +1,7 @@
 import json
-from flashcards.card import Card
-from flashcards.card_collection import CardCollection
-from flashcards.config import Config as cfg
+from card import Card
+from card_collection import CardCollection
+from config import Config as cfg
 import csv
 from typing import List
 import ast
