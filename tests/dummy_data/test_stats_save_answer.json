@@ -1,0 +1,23 @@
+{
+    "answers": {
+        "correct": [
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "19-12-2022 01:15"
+            },
+            {
+                "originLang": "a",
+                "learningLang": "_a",
+                "date": "19-01-2023 15:51"
+            }
+        ],
+        "wrong": [
+            {
+                "originLang": "Samolot",
+                "learningLang": "Airplane",
+                "date": "19-12-2022 01:57"
+            }
+        ]
+    }
+}

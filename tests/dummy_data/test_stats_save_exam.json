@@ -1,0 +1,55 @@
+{
+    "answers": {
+        "correct": [
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "19-12-2022 01:15"
+            }
+        ],
+        "wrong": [
+            {
+                "originLang": "Samolot",
+                "learningLang": "Airplane",
+                "date": "19-12-2022 01:57"
+            }
+        ]
+    },
+    "exams": [
+        {
+            "correct": 0,
+            "total": 1,
+            "percentage": 0.0,
+            "answers": [
+                {
+                    "expected": "Samolot",
+                    "given": "sdasa",
+                    "toBeGuessed": "Airplane",
+                    "isCorrect": false
+                }
+            ],
+            "date": "22-12-2022 19:29"
+        },
+        {
+            "correct": 1,
+            "total": 2,
+            "percentage": 50.0,
+            "answers": [
+                {
+                    "expected": "a",
+                    "given": "",
+                    "toBeGuessed": "_a",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "a",
+                    "given": "a",
+                    "toBeGuessed": "_a",
+                    "isCorrect": true
+                }
+            ],
+            "date": "19-01-2023 15:51"
+        }
+    ],
+    "answersToLastExam": 2
+}

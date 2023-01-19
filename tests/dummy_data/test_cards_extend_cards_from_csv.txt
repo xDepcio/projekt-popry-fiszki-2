@@ -1,0 +1,2 @@
+koszykówka,basketball,['Sports']
+noga,football,[]

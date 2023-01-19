@@ -1,0 +1,129 @@
+{
+    "answers": {
+        "totalCorrect": 12,
+        "totalWrong": 22,
+        "correct": [
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "19-12-2022 01:15"
+            },
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "19-12-2022 03:15"
+            },
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "20-12-2022 03:15"
+            },
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "21-12-2022 03:15"
+            },
+            {
+                "originLang": "Samochód",
+                "learningLang": "Car",
+                "date": "03-01-2023 01:05"
+            }
+        ],
+        "wrong": [
+            {
+                "originLang": "Samolot",
+                "learningLang": "Airplane",
+                "date": "19-12-2022 01:57"
+            },
+            {
+                "originLang": "Samolot",
+                "learningLang": "Airplane",
+                "date": "19-12-2022 01:58"
+            },
+            {
+                "originLang": "Ciężarówka",
+                "learningLang": "Truck",
+                "date": "19-12-2022 15:23"
+            }
+        ]
+    },
+    "exams": [
+        {
+            "correct": 0,
+            "total": 5,
+            "percentage": 0.0,
+            "answers": [
+                {
+                    "expected": "Samolot",
+                    "given": "sdasa",
+                    "toBeGuessed": "Airplane",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "Pociąg",
+                    "given": "asdas",
+                    "toBeGuessed": "Train",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "Żołnierz",
+                    "given": "asdasd",
+                    "toBeGuessed": "Soldier",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "Samochód",
+                    "given": "asdasd",
+                    "toBeGuessed": "Car",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "Woźny",
+                    "given": "asdasd",
+                    "toBeGuessed": "Janitor",
+                    "isCorrect": false
+                }
+            ],
+            "date": "22-12-2022 19:29"
+        },
+        {
+            "correct": 4,
+            "total": 5,
+            "percentage": 80.0,
+            "answers": [
+                {
+                    "expected": "Samolot",
+                    "given": "samolot",
+                    "toBeGuessed": "Airplane",
+                    "isCorrect": true
+                },
+                {
+                    "expected": "Samolot",
+                    "given": "samolto",
+                    "toBeGuessed": "Airplane",
+                    "isCorrect": false
+                },
+                {
+                    "expected": "Policjant",
+                    "given": "policjant",
+                    "toBeGuessed": "Police officer",
+                    "isCorrect": true
+                },
+                {
+                    "expected": "Pociąg",
+                    "given": "pociąg",
+                    "toBeGuessed": "Train",
+                    "isCorrect": true
+                },
+                {
+                    "expected": "Samochód",
+                    "given": "samochód",
+                    "toBeGuessed": "Car",
+                    "isCorrect": true
+                }
+            ],
+            "date": "23-12-2022 00:27"
+        }
+    ],
+    "appUseTimeSeconds": 450000
+}

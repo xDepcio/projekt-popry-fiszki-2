@@ -1,0 +1,830 @@
+[
+    {
+        "id": 1,
+        "originLang": "Ciężarówka",
+        "learningLang": "Truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.18000000000000002
+    },
+    {
+        "id": 2,
+        "originLang": "Samochód",
+        "learningLang": "Car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.07500000000000001
+    },
+    {
+        "id": 3,
+        "originLang": "Samolot",
+        "learningLang": "Airplane",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.07500000000000001
+    },
+    {
+        "id": 4,
+        "originLang": "Pociąg",
+        "learningLang": "Train",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.07500000000000001
+    },
+    {
+        "id": 5,
+        "originLang": "Policjant",
+        "learningLang": "Police officer",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 6,
+        "originLang": "Strażak",
+        "learningLang": "Firefighter",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 7,
+        "originLang": "Woźny",
+        "learningLang": "Janitor",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.7424999999999999
+    },
+    {
+        "id": 8,
+        "originLang": "motocykl",
+        "learningLang": "motorcycle",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 9,
+        "originLang": "łódź",
+        "learningLang": "boat",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 10,
+        "originLang": "autobus",
+        "learningLang": "bus",
+        "categories": [
+            "Vehicles"
+        ]
+    },
+    {
+        "id": 11,
+        "originLang": "tramwaj",
+        "learningLang": "tram",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 12,
+        "originLang": "metro",
+        "learningLang": "subway",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.5832000000000002
+    },
+    {
+        "id": 13,
+        "originLang": "rower",
+        "learningLang": "bike",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 14,
+        "originLang": "skuter",
+        "learningLang": "scooter",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 15,
+        "originLang": "kolejka linowa",
+        "learningLang": "cable car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 16,
+        "originLang": "statek",
+        "learningLang": "ship",
+        "categories": [
+            "Vehicles"
+        ]
+    },
+    {
+        "id": 17,
+        "originLang": "wózek widłowy",
+        "learningLang": "forklift",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 18,
+        "originLang": "traktor",
+        "learningLang": "tractor",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 19,
+        "originLang": "przyczepa",
+        "learningLang": "trailer",
+        "categories": [
+            "Vehicles"
+        ]
+    },
+    {
+        "id": 20,
+        "originLang": "kombajn",
+        "learningLang": "combine",
+        "categories": [
+            "Vehicles"
+        ]
+    },
+    {
+        "id": 21,
+        "originLang": "koparka",
+        "learningLang": "excavator",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 22,
+        "originLang": "ładowarka",
+        "learningLang": "loader",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 23,
+        "originLang": "walec",
+        "learningLang": "roller",
+        "categories": [
+            "Vehicles"
+        ]
+    },
+    {
+        "id": 24,
+        "originLang": "koparko-ładowarka",
+        "learningLang": "bulldozer",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.5832000000000002
+    },
+    {
+        "id": 25,
+        "originLang": "śmigłowiec",
+        "learningLang": "helicopter",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 26,
+        "originLang": "samochód terenowy",
+        "learningLang": "SUV",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 27,
+        "originLang": "samochód ciężarowy",
+        "learningLang": "semi-truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.18000000000000002
+    },
+    {
+        "id": 28,
+        "originLang": "samochód osobowy",
+        "learningLang": "passenger car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 29,
+        "originLang": "samochód dostawczy",
+        "learningLang": "delivery truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 30,
+        "originLang": "samochód policyjny",
+        "learningLang": "police car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 31,
+        "originLang": "samochód strażacki",
+        "learningLang": "fire truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 32,
+        "originLang": "samochód ratunkowy",
+        "learningLang": "ambulance",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 33,
+        "originLang": "samochód wojskowy",
+        "learningLang": "military vehicle",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 34,
+        "originLang": "samochód towarowy",
+        "learningLang": "cargo truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 35,
+        "originLang": "samochód kempingowy",
+        "learningLang": "recreational vehicle (RV)",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 36,
+        "originLang": "samochód kabriolet",
+        "learningLang": "convertible",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 37,
+        "originLang": "samochód z otwartym dachem",
+        "learningLang": "sunroof car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 38,
+        "originLang": "samochód sportowy",
+        "learningLang": "sports car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 39,
+        "originLang": "samochód elektryczny",
+        "learningLang": "electric car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.135
+    },
+    {
+        "id": 40,
+        "originLang": "samochód hybrydowy",
+        "learningLang": "hybrid car",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.5832000000000002
+    },
+    {
+        "id": 41,
+        "originLang": "samochód z kratką",
+        "learningLang": "pick-up truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 42,
+        "originLang": "samochód z windą",
+        "learningLang": "lift truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 43,
+        "originLang": "samochód z naczepą",
+        "learningLang": "semi-trailer truck",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.18000000000000002
+    },
+    {
+        "id": 44,
+        "originLang": "samochód z niskim zawieszeniem",
+        "learningLang": "lowrider",
+        "categories": [
+            "Vehicles"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 45,
+        "originLang": "pielęgniarka",
+        "learningLang": "nurse",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.07500000000000001
+    },
+    {
+        "id": 46,
+        "originLang": "inżynier",
+        "learningLang": "engineer",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.07500000000000001
+    },
+    {
+        "id": 47,
+        "originLang": "nauczyciel",
+        "learningLang": "teacher",
+        "categories": [
+            "Jobs"
+        ]
+    },
+    {
+        "id": 48,
+        "originLang": "mechanik",
+        "learningLang": "mechanic",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 49,
+        "originLang": "prawnik",
+        "learningLang": "lawyer",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.4374000000000001
+    },
+    {
+        "id": 50,
+        "originLang": "księgowy",
+        "learningLang": "accountant",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 51,
+        "originLang": "murarz",
+        "learningLang": "bricklayer",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.18000000000000002
+    },
+    {
+        "id": 52,
+        "originLang": "spawacz",
+        "learningLang": "welder",
+        "categories": [
+            "Jobs"
+        ]
+    },
+    {
+        "id": 53,
+        "originLang": "kucharz",
+        "learningLang": "chef",
+        "categories": [
+            "Jobs"
+        ]
+    },
+    {
+        "id": 54,
+        "originLang": "piekarz",
+        "learningLang": "baker",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "id": 55,
+        "originLang": "fryzjer",
+        "learningLang": "hairdresser",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.99
+    },
+    {
+        "id": 56,
+        "originLang": "kowal",
+        "learningLang": "blacksmith",
+        "categories": [
+            "Jobs"
+        ]
+    },
+    {
+        "id": 57,
+        "originLang": "dziennikarz",
+        "learningLang": "journalist",
+        "categories": [
+            "Jobs"
+        ],
+        "popularity": 0.32400000000000007
+    },
+    {
+        "originLang": "mieszkanie",
+        "learningLang": "apartment",
+        "categories": [
+            "Home"
+        ],
+        "id": 58,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "pokój",
+        "learningLang": "room",
+        "categories": [
+            "Home"
+        ],
+        "id": 59,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "kuchnia",
+        "learningLang": "kitchen",
+        "categories": [
+            "Home"
+        ],
+        "id": 60,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "łazienka",
+        "learningLang": "bathroom",
+        "categories": [
+            "Home"
+        ],
+        "id": 61,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "sypialnia",
+        "learningLang": "bedroom",
+        "categories": [
+            "Home"
+        ],
+        "id": 62
+    },
+    {
+        "originLang": "pokój dzienny",
+        "learningLang": "living room",
+        "categories": [
+            "Home"
+        ],
+        "id": 63,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "przedpokój",
+        "learningLang": "hallway",
+        "categories": [
+            "Home"
+        ],
+        "id": 64,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "korytarz",
+        "learningLang": "corridor",
+        "categories": [
+            "Home"
+        ],
+        "id": 65,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "garaż",
+        "learningLang": "garage",
+        "categories": [
+            "Home"
+        ],
+        "id": 66,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "ogród",
+        "learningLang": "garden",
+        "categories": [
+            "Home"
+        ],
+        "id": 67
+    },
+    {
+        "originLang": "balkon",
+        "learningLang": "balcony",
+        "categories": [
+            "Home"
+        ],
+        "id": 68
+    },
+    {
+        "originLang": "taras",
+        "learningLang": "terrace",
+        "categories": [
+            "Home"
+        ],
+        "id": 69,
+        "popularity": 0.24300000000000002
+    },
+    {
+        "originLang": "piwnica",
+        "learningLang": "basement",
+        "categories": [
+            "Home"
+        ],
+        "id": 70
+    },
+    {
+        "originLang": "dach",
+        "learningLang": "roof",
+        "categories": [
+            "Home"
+        ],
+        "id": 71,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "okno",
+        "learningLang": "window",
+        "categories": [
+            "Home"
+        ],
+        "id": 72,
+        "popularity": 0.13500000000000004
+    },
+    {
+        "originLang": "drzwi",
+        "learningLang": "door",
+        "categories": [
+            "Home"
+        ],
+        "id": 73,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "koszykówka",
+        "learningLang": "basketball",
+        "categories": [
+            "Sports"
+        ],
+        "id": 74,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "siatkówka",
+        "learningLang": "volleyball",
+        "categories": [
+            "Sports"
+        ],
+        "id": 75,
+        "popularity": 0.07500000000000001
+    },
+    {
+        "originLang": "hokej",
+        "learningLang": "hockey",
+        "categories": [
+            "Sports"
+        ],
+        "id": 76
+    },
+    {
+        "originLang": "tenis",
+        "learningLang": "tennis",
+        "categories": [
+            "Sports"
+        ],
+        "id": 77,
+        "popularity": 0.32400000000000007
+    },
+    {
+        "originLang": "bieganie",
+        "learningLang": "running",
+        "categories": [
+            "Sports"
+        ],
+        "id": 78,
+        "popularity": 0.3280500000000001
+    },
+    {
+        "originLang": "pływanie",
+        "learningLang": "swimming",
+        "categories": [
+            "Sports"
+        ],
+        "id": 79,
+        "popularity": 0.13500000000000004
+    },
+    {
+        "originLang": "skoki narciarskie",
+        "learningLang": "ski jumping",
+        "categories": [
+            "Sports"
+        ],
+        "id": 80,
+        "popularity": 0.32400000000000007
+    },
+    {
+        "originLang": "kolarstwo",
+        "learningLang": "cycling",
+        "categories": [
+            "Sports"
+        ],
+        "id": 81,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "szermierka",
+        "learningLang": "fencing",
+        "categories": [
+            "Sports"
+        ],
+        "id": 82,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "lekkoatletyka",
+        "learningLang": "track and field",
+        "categories": [
+            "Sports"
+        ],
+        "id": 83,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "golf",
+        "learningLang": "golf",
+        "categories": [
+            "Sports"
+        ],
+        "id": 84,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "piłka ręczna",
+        "learningLang": "handball",
+        "categories": [
+            "Sports"
+        ],
+        "id": 85,
+        "popularity": 0.18000000000000002
+    },
+    {
+        "originLang": "boks",
+        "learningLang": "boxing",
+        "categories": [
+            "Sports"
+        ],
+        "id": 86,
+        "popularity": 0.7424999999999999
+    },
+    {
+        "originLang": "mma",
+        "learningLang": "mma",
+        "categories": [
+            "Sports"
+        ],
+        "id": 87
+    },
+    {
+        "originLang": "judo",
+        "learningLang": "judo",
+        "categories": [
+            "Sports"
+        ],
+        "id": 88,
+        "popularity": 0.07500000000000001
+    },
+    {
+        "originLang": "taekwondo",
+        "learningLang": "taekwondo",
+        "categories": [
+            "Sports"
+        ],
+        "id": 89,
+        "popularity": 0.99
+    },
+    {
+        "originLang": "bandyta",
+        "learningLang": "thug",
+        "categories": [
+            "Jobs"
+        ],
+        "id": 90,
+        "popularity": 0.07500000000000001
+    },
+    {
+        "originLang": "żeglarstwo",
+        "learningLang": "sailing",
+        "categories": [
+            "Sports"
+        ],
+        "popularity": 0.99,
+        "id": 91
+    },
+    {
+        "originLang": "koń",
+        "learningLang": "horse",
+        "categories": [
+            "Animals"
+        ],
+        "id": 92
+    },
+    {
+        "originLang": "pies",
+        "learningLang": "dog",
+        "categories": [
+            "Animals"
+        ],
+        "id": 93
+    },
+    {
+        "originLang": "kot",
+        "learningLang": "cat",
+        "categories": [
+            "Animals"
+        ],
+        "id": 94
+    }
+]
