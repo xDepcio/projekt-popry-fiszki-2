@@ -669,7 +669,7 @@ class Ui_MainWindow(object):
             icon = QIcon.fromTheme(iconThemeName)
         else:
             icon.addFile(u"storage/icons/refresh.svg", QSize(), QIcon.Normal, QIcon.Off)
-
+        
         self.refreshStatsBtn.setIcon(icon)
 
         self.horizontalLayout_5.addWidget(self.refreshStatsBtn)
@@ -1011,3 +1011,4 @@ class Ui_MainWindow(object):
         self.label_13.setText(QCoreApplication.translate("MainWindow", u"Czas nauki:", None))
         self.labelAppUseTime.setText(QCoreApplication.translate("MainWindow", u"25 h", None))
     # retranslateUi
+
